@@ -60,3 +60,9 @@ sudo apt-get autoremove
 ``````
 ![Alt text](image-7.png)
 
+**5. Выложить историю команд в терминале ubuntu.
+Для получения истории введенных команд в терминале ubuntu используем:**
+``````
+history
+``````
+![Alt text](image-8.png)
