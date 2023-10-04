@@ -72,6 +72,6 @@
 
 ### пункт 7-12: (работа с MySQL) https://github.com/Falcon3590/Final-_work_specialization/blob/main/Task%207-12/sql-command.md
 
-### пункт 13-15: 
+### пункт 13-15: https://github.com/Falcon3590/Final-_work_specialization/tree/main/Task%2013-15
 
 
